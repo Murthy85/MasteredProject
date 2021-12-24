@@ -177,14 +177,14 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
-    - _HeightAmplitude: 0.056199998
-    - _HeightCenter: 0.023131672
+    - _HeightAmplitude: 0.02
+    - _HeightCenter: 0
     - _HeightMapParametrization: 1
     - _HeightMax: 2
     - _HeightMin: -2
-    - _HeightOffset: -0.13
+    - _HeightOffset: 0
     - _HeightPoMAmplitude: 2
-    - _HeightTessAmplitude: 5.62
+    - _HeightTessAmplitude: 2
     - _HeightTessCenter: 0
     - _InvTilingScale: 1
     - _Ior: 1.5
@@ -193,7 +193,7 @@ Material:
     - _LinkDetailsWithBase: 1
     - _MaterialID: 1
     - _Metallic: 0
-    - _MetallicRemapMax: 0.07485689
+    - _MetallicRemapMax: 0.015095949
     - _MetallicRemapMin: 0
     - _Mode: 0
     - _NormalMapSpace: 0
@@ -211,7 +211,7 @@ Material:
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
     - _Smoothness: 0.5
-    - _SmoothnessRemapMax: 0.18053721
+    - _SmoothnessRemapMax: 1
     - _SmoothnessRemapMin: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularAAScreenSpaceVariance: 0.1
@@ -231,12 +231,12 @@ Material:
     - _SupportDecals: 1
     - _SurfaceType: 0
     - _TessellationBackFaceCullEpsilon: -0.25
-    - _TessellationFactor: 8
-    - _TessellationFactorMaxDistance: 50
+    - _TessellationFactor: 16
+    - _TessellationFactorMaxDistance: 100
     - _TessellationFactorMinDistance: 2
-    - _TessellationFactorTriangleSize: 50
+    - _TessellationFactorTriangleSize: 75
     - _TessellationMode: 1
-    - _TessellationShapeFactor: 0.75
+    - _TessellationShapeFactor: 1
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1
     - _Thickness: 1
